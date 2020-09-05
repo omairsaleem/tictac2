@@ -1,3 +1,5 @@
+instructions for VS Code:
+
 1.  use default option for chrome to create a luanch.debug file when you click on debugger icon on the left.
     it creates a file with following contents:
 
