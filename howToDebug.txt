@@ -36,4 +36,5 @@
     } 
 
 3.  run 'npm start' in terminal window to run the program 
-4.  click debugger icon on the left to attach program to debugger, now your program should hit any break points.
+4.  click debugger icon on the left and then choose 'launch chrome' option from the 'run' button drop down 
+    to attach the program to debugger. now your program should hit any break points.
